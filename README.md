@@ -1,4 +1,4 @@
-# Stephenking Audiobooks Scrapper
+# Stephenking Audiobooks Scraper
 Python script to scrape audiobooks from https://stephenkingaudiobooks.com/
 
 <hr>
