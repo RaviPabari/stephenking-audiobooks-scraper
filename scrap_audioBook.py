@@ -23,7 +23,7 @@ class ScrapItBaby:
 
             for i in p_tag:
                 i = str(i)
-                if "href" not in i and "style" not in i:
+                if "href" not in i and "style" not in i and "Chapter" in i:
                     i = i.replace("<p>","")
                     i = i.replace("</p>","")
                     if(len(i)>60):
